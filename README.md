@@ -1,5 +1,7 @@
 # Istanbul Customer Shopping Analysis
 
+![Istanbul Customer Shopping Report](https://github.com/YuYunusa/Istanbul-Customer-Shopping-Analysis/assets/160647840/41ec501b-3766-4f79-afea-69ba72a3e677)
+
 ### Overview
 This project is aimed at providing insights for the istanbul customer shopping.The data was analyzed to find the different customer shopping trends and patterns for data-informed decision making.
 
